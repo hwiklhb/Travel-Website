@@ -14,7 +14,7 @@ HTML5
 
 CSS3
 
-JavaScript (Vanilla JS, no frameworks)
+JavaScript 
 
 📌 Features to Implement
 
